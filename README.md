@@ -21,10 +21,6 @@ It allows two players to play against each other with a graphical interface.
 
 ---
 
-## ▶️ How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/YourUsername/your-repo-name.git
 
 Name : Tanmay Agarwal
 Git Username : TanmayAgarwal40
