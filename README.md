@@ -40,13 +40,13 @@ Here are some of the key functions in the code:
 ## 📸 Screenshots
 
 ### Game in Progress  
-![Tic Tac Toe Game Progress](screenshot-game.png)
+![Tic Tac Toe Game Progress](screenshot-winner.png)
 _A game of Tic-Tac-Toe in progress. Player 1 (Blue O) and Player 2 (Orange X) have placed their moves, and the game is ongoing with multiple winning possibilities._
 
 ---
 
 ### Game Over - Winner Declared  
-![Tic Tac Toe Winner Screen](screenshot-winner.png)
+![Tic Tac Toe Winner Screen](screenshot-game.png)
 _The Tic-Tac-Toe game shows the result screen declaring **“Winner Player Number 1”** after Player 1 (Blue O) successfully formed a winning line._
 
 ---
